@@ -1,0 +1,16 @@
+###############################
+####     Technology used   ####
+###############################
+* HPSTR Jekyll theme          [https://github.com/mmistakes/hpstr-jekyll-theme]
+* SCSS  (included in HPSTR)   [http://sass-lang.org]
+* Jekyll                      [http://jekyllrb.com]
+* Brackets                    [http://brackets.io]
+* Github Pages                [pages.github.com]
+
+###############################
+####     Image Sources     ####
+###############################
+* Carpenter Ant by  Macroscopic Solutions
+   https://www.flickr.com/photos/107963674@N07/16257634519
+* noisy by Mladjan Antic
+   http://subtlepatterns.com/noisy/
