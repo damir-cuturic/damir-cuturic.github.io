@@ -1,11 +1,12 @@
 title:            IPOTRONICS
 description:      Blog ter documentatie in de voortgang van IPOTRONICS
-disqus_shortname: hpstrtheme
+# disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+# url: http://localhost:4000
+url: http://damir-cuturic.github.io
 
 # Owner/author information
 owner:
@@ -49,7 +50,7 @@ sass:
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
-paginate: 7
+paginate: 5
 
 kramdown:
   auto_ids: true
