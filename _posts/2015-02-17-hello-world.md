@@ -30,4 +30,5 @@ Ik heb besloten om de code die ik gebruik op github te plaatsen, dit heeft als v
 Dit blog is ook gehost op github voor meer informatie daar over kun je de links onderaan raadplegen.
 
 [Github Pages](http://24ways.org/2013/get-started-with-github-pages/) 
+
 [Jekyll Intro](https://www.youtube.com/watch?v=T6jKLsxbFg4)
