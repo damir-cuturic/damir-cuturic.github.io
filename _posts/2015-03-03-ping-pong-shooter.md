@@ -41,3 +41,6 @@ Er zijn ook componenten nodig om dit allemaal werkend te krijgen.
 | drukschakelaar | het geheel aan- en uitschakelen | voorkomt ongelukken |
 
 In het weekend ga ik onderzoeken welke motoren schikt zijn om een bal af te schieten.
+
+##Edit
+woensdag, 11 maart, 2015  :  aanpassing gemaakt in afbeelding, na feedback van medestudenten.
