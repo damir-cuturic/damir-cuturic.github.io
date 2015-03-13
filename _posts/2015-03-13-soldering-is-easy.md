@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Soldering Is Easy!!"
+title: "Soldering Is Easy!! [PDF]"
 modified:
 categories: 
 description:
